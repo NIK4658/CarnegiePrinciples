@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(255, 245, 245);
+}
+
+main{
+    padding-top: 2vh;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+    color: rgb(20, 14, 14);
+}
+
+h3{
+    padding-top: 4vh;
+    padding-bottom: 2vh;
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(20, 14, 14);
+    text-shadow: 1px 2px 3px rgba(0,0,0,0.15);
+}
+
+h2{
+    text-align: center;
+    font-size: 5rem;
+    margin-right: 10vw;
+    margin-left: 10vw;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+    padding-bottom: 5vh;
+}
+
+p {
+    padding-top: 2vh;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(20, 14, 14);
+    text-shadow: 1px 2px 3px rgba(0,0,0,0.15);
+}
